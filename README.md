@@ -1,5 +1,5 @@
 # pbAPI
-pbAPI is a complex php file that can be accessed easily through your php web app to serve complex functions without doin  any work
+pbAPI is an elaborate php file that can be accessed easily through your php web app to serve complex functions without doing any work.
 A example API request asking for the current date
 ```php
 <?php
