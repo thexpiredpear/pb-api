@@ -1,5 +1,5 @@
 # pbAPI
-pb-API is incredibly complex php that serves your php web app easily
+pbAPI is incredibly complex php that serves your php web app easily
 A example API request asking for the current date
 ```php
 <?php
