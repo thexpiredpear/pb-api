@@ -1,6 +1,6 @@
 # pbAPI
-pbAPI is an elaborate php file that can be accessed easily through your php web app to serve complex functions without doing any work.
-A example API request asking for the current date
+pbAPI is an elaborate php file that can be accessed easily through your php web app to serve complex functions without doing any work.<br>
+An example API request asking for the current date
 ```php
 <?php
 $date = file_get_contents("https://www.persistentbits.com/pbAPI?q=date");
