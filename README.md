@@ -1,6 +1,6 @@
 # pbAPI
 pbAPI is an elaborate php file that can be accessed easily through your php web app to serve complex functions without doing any work.<br>
-An example API request asking for the current date
+# An example API request asking for the current date
 ```php
 <?php
 $date = file_get_contents("https://www.persistentbits.com/pbAPI?q=date");
@@ -18,7 +18,7 @@ echo $ip;
 
 | q=| Description |
 | --- | --- |
-| date | gives the current date |
+| date | gives the current date (UTC)|
 | ip| return user ip |
-| day| returns current day of week |
-| time| returns current time of day
+| day| returns current day of week (UTC) |
+| time| returns current time of day (UTC) |
