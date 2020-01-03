@@ -18,7 +18,7 @@ echo $ip;
 
 | q=| Description |
 | --- | --- |
-| date | gives the current date (UTC)|
-| ip| return user ip |
+| date | returns the current date (UTC)|
+| ip| returns user ip |
 | day| returns current day of week (UTC) |
 | time| returns current time of day (UTC) |
